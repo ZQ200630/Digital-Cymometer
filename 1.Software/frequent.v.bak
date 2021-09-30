@@ -1,0 +1,9 @@
+module frequent(
+	input sys_clk,
+			sys_rst,
+			frequent_in,
+	output uart_out
+)
+
+
+endmodule
