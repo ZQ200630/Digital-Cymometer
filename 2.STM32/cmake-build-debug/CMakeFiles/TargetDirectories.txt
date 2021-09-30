@@ -1,0 +1,3 @@
+/Users/jason/CLionProjects/untitled3/Project123/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jason/CLionProjects/untitled3/Project123/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jason/CLionProjects/untitled3/Project123/cmake-build-debug/CMakeFiles/Project123.elf.dir
